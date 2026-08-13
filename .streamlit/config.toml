@@ -20,6 +20,8 @@ greenColor = "#3FAE5C"
 redColor = "#D9534F"
 grayColor = "#8A8578"
 
+chartCategoricalColors = ["#D9A404", "#E8871E", "#4C9F8F", "#8D7FBF", "#B85C8C", "#5B8DBE"]
+
 font = "'Inter':https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&display=swap"
 headingFont = "'Oswald':https://fonts.googleapis.com/css2?family=Oswald:wght@500;600;700&display=swap"
 codeFont = "'JetBrains Mono':https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500&display=swap"
